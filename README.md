@@ -1,5 +1,7 @@
 # Flutter Tips
 
+[Patterns](PATTERNS.md)
+
 ## Git Unsafe Repository
 
 "This security issue started showing up in Git v2.35.2 and later, where Git now checks for ownership of the folder trying to ensure that the folder you are using Git in has the same user as the owner as your current user account."
