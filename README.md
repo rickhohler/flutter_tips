@@ -1,5 +1,5 @@
 # Flutter Tips
 
-[Tips](TIPS.md)
+[Patterns](patterns/README.md)
 
-[Patterns](PATTERNS.md)
+[FAQ](faq/README.md)
