@@ -1,4 +1,4 @@
-# Flutter Windows Tips
+# Flutter Tips
 
 ## Git Unsafe Repository
 
